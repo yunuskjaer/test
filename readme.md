@@ -3,6 +3,6 @@
  Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax- [Is it Christmas?](https://isitchristmas.com)
  https://store.steampowered.com 
 ## Formatting Examples:
- 1. *Italic* text.
- 2. **Bold** Text
+ 1. *Italic* emphasis
+ 2. **Bold** emphasis
  3. im good bro
